@@ -12,3 +12,7 @@ In case I forgot to add a licence, use a GNU license.
 theAlm/theAlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+What I don't like is rude people, sexism, people who can't que and poeple who make fun out of sick people.
+
+Poeople who think apllied mathematics is philosophy have missed a whole lot since 1716.
