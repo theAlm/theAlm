@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on a new volunteering project.
 - 📫 How to reach me: tania@mailbox.org
 
+This is a repository, where I keep the software projects I do in my free time, which I may publish.
+
 <!---
 theAlm/theAlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
